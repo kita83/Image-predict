@@ -1,1 +1,1 @@
-# AutoML
+# Bing Image Collector
