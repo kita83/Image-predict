@@ -1,1 +1,1 @@
-# Bing Image Collector
+# Image Predict
