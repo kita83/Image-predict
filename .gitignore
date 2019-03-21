@@ -1,3 +1,5 @@
-/authentication.ini
-/bing/
+/bing/authentication.ini
+/automl.ini
+/bing/bing_img/
 /__pycache__/
+*.json

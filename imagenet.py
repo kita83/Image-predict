@@ -20,10 +20,10 @@ def write(path, img):
     file.close()
 
 # see http://image-net.org/archive/words.txt
-classes = {"house":"n03545150"}
+classes = {"doll, dolly": "n03219135"}
 
-offset = 10
-max = 1239
+offset = 0
+max = 100
 for dir, id in classes.items():
     print(dir)
     os.makedirs(dir, exist_ok=True)
